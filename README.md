@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: (he/him/his)
 - ⚡ Fun fact: Love hacking javascript tools together, but am really bad at it!
 -->
-[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=mehrotrasan16&&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=mehrotrasan16&&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

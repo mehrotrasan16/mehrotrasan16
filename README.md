@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 - 😄 Pronouns: (he/him/his)
 - ⚡ Fun fact: Love hacking javascript tools together, but am really bad at it!
+
+to pin another project on the page: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehrotrasan16&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=mehrotrasan16&&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrotrasan16&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

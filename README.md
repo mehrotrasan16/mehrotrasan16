@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Sanket!
+### Hi there 👋, I'm Sanket!
 
 - 🔭 I’m currently working on web-visualization projects with the [Sustain Project](http://urban-sustain.org/) at Colorado State University. 
 - Reach out to me at sanketmehrotra102@gmail.com
